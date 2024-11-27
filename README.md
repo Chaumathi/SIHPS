@@ -30,9 +30,13 @@ Government of Gujarat
 
 ## Technology Stack
 Frontend: React.js, React Native
+
 Backend: Node.js, Express.js
+
 Database: MongoDB / PostgreSQL
+
 Authentication: JWT
+
 Payment Gateway: Razorpay / Stripe
 
 
