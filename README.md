@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:27.11.2024
+## Register Number:24004958
+## Name:Charumathi A
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,41 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
-
+1.Alumni Registration: Easy registration for alumni to join the association, update profiles, and connect with peers and the institution.
+2.Donation Portal: Secure system for alumni to donate to the college's initiatives.
+3.Networking Hub: Sections to connect alumni based on shared interests, profession, and geography.
+4.Job Portal: Allows alumni to explore job opportunities, post job openings, and network with potential employers.
+5.Alumni Directory: A searchable directory of alumni based on criteria such as graduation year, field of study, industry, location, etc.
+6.Success Story Tracking: Showcase alumni achievements and inspire current students.
+7.Events and Reunions: Announcements, registrations, and management for alumni events, reunions, workshops, and professional sessions.
+8.Feedback and Surveys: Allows alumni to provide feedback and participate in surveys to improve the association.
 
 ## Proposed Solution / Architecture Diagram
 
+![Data-Flow-Diagram-of-Automated-Alumni-Data-Tracking-System](https://github.com/user-attachments/assets/4d7b737f-2323-40e5-8146-5f60a46e712f)
+
 
 ## Use Cases
+![image4](https://github.com/user-attachments/assets/615534e2-ed9c-425e-806e-f3a77c675cac)
 
 
 ## Technology Stack
+Frontend: React.js, React Native
+Backend: Node.js, Express.js
+Database: MongoDB / PostgreSQL
+Authentication: JWT
+Payment Gateway: Razorpay / Stripe
 
 
 ## Dependencies
+Frontend Development: 15 days
+Backend Development: 20 days
+Database Setup: 10 days
+Testing and Deployment: 15 days
+
+Budget:
+Rs. 50,000
+
+
+
 
