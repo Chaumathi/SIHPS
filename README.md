@@ -42,11 +42,15 @@ Payment Gateway: Razorpay / Stripe
 
 ## Dependencies
 Frontend Development: 15 days
+
 Backend Development: 20 days
+
 Database Setup: 10 days
+
 Testing and Deployment: 15 days
 
 Budget:
+
 Rs. 50,000
 
 
